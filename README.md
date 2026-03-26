@@ -9,7 +9,7 @@
 ```js
   * TIKTOK VIEW BOT (USING TIKVUES)
   * Easy to use, View Bot Slow
-  * Compatible Windows 8.1, 10, 11
+  * Compatible Windows 10, 11
 ```
 
 ## Installation
