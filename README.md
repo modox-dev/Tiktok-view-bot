@@ -29,6 +29,6 @@
 
 ## Tricks
 ```
-  * Add Kaizen.go on DISCORD.
+  * Add Modox.off on DISCORD.
 ```
 
