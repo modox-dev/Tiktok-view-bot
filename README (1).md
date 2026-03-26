@@ -1,4 +1,4 @@
-<h1 align="center">💎UQLOAD DOWNLOADER #2026 </h1>
+<h1 align="center">💎TIKTOK VIEW BOT (USING TIKVUES) #2026 </h1>
 
 <p align='center'>
   <b>Star ⭐ if you want more</b><br>
@@ -7,8 +7,8 @@
 
 ## Features
 ```js
-  * UQLOAD DOWNLOADER
-  * Easy to use, Download Slow
+  * TIKTOK VIEW BOT (USING TIKVUES)
+  * Easy to use, View Bot Slow
   * Compatible Windows 8.1, 10, 11
 ```
 
@@ -20,12 +20,11 @@
 ##  Usage:
 ```
   * pip install -r requirements.txt in your commands prompt.
-  * py automator.py
+  * py tiktok-bot.py
   * Enter the link of the video
-  * Enter the name of the video
-  * Downloading...
+  * Botting...
   * Done...
-  * Add Kreyto.sql for help.
+  * Add Modox.off for help.
 ```
 
 ## Tricks
